@@ -67,15 +67,3 @@ Organizers can create and manage events, while attendees can browse and register
 - POST `/events/{event_id}/register`
 - DELETE `/events/{event_id}/register`
 
-## Learning Outcomes
-
-This project helped me understand:
-
-- REST API development using FastAPI
-- CRUD operations
-- JWT Authentication
-- Role-based authorization
-- Dynamic PATCH requests
-- Database transactions
-- Business rule validation
-- MySQL integration
